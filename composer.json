@@ -1,0 +1,19 @@
+{							
+    "name": "marcooliveros/practica",
+    "description": "tutorial_composer\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[",
+    "autoload": {
+        "psr-4": {
+            "Marcooliveros\\Practica\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mporras77",
+            "email": "mporras77@misena.edu.co"
+        }
+    ],
+    "require": {
+	"php": ">=7.0.0",
+        "illuminate/database": "^9.37"
+    }
+}
